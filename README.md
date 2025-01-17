@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Scarlett 👋
+
+I am a current undergraduate at Washington University in St. Louis studying Computer Science with focus in cybersecurity and a minor in Asian American Studies. I became interested in computer science in middle school when I taught myself JavaScript. I am looking for an internship in software engineering or cyber. 
+
+While I am not coding, I love to rock climb 🧗‍♀️, run 🏃‍♀️, and be outside in nature 
+🏞. I also have a small business on Etsy, you can find it [@ScarlettpAndCo](https://www.etsy.com/shop/ScarlettpAndCo). 
+
+## Current Project 💻
+🔮[Crystal Queer](https://crystalqueer.vercel.app/)
+
+Tech stack: Next.js, MongoDB, Vercel
 
 <!--
 **scarlettpatton/scarlettpatton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
